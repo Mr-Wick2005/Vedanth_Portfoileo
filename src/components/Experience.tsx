@@ -68,7 +68,7 @@ export function Experience() {
           className="mb-20"
         >
           <h2
-            className="text-6xl text-white tracking-tight mb-4"
+            className="text-4xl md:text-5xl lg:text-6xl text-white tracking-tight mb-4"
             style={{ fontWeight: 700 }}
           >
             Education and Extra-curricular

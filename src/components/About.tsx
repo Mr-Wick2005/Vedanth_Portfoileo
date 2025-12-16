@@ -60,7 +60,7 @@ export function About() {
     {
       id: "animals",
       icon: Heart,
-      title: "Animal Advocate",
+      title: "Animal Lover",
       desc: "Compassionate towards all creatures",
       gradient: "from-red-500/20 to-orange-500/20",
       iconColor: "text-red-400",

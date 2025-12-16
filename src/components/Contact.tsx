@@ -167,7 +167,7 @@ export function Contact() {
           initial={{ opacity: 0, scale: 0.9 }}
           animate={isInView ? { opacity: 1, scale: 1 } : {}}
           transition={{ delay: 0.3, duration: 0.6 }}
-          className="mb-16 flex flex-row items-start justify-center gap-12"
+          className="mb-16 flex flex-col md:flex-row items-center justify-center gap-8 md:gap-12"
         >
           {/* Contact Form */}
           <div className="flex-1 max-w-md">
